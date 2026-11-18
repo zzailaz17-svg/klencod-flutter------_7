@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590753369282",
+    "project_id": "souq-al-hamadi",
+    "storage_bucket": "souq-al-hamadi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590753369282:android:9e4e1a745e07bdc4963f5b",
+        "android_client_info": {
+          "package_name": "com.alhamadi.souq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzRxQuIXgHoze-EqfhDaO3FS5qujTq4Ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
